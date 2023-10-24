@@ -1,12 +1,10 @@
-[
-    {
-        email : "bonnmh.mobile@gmail.com", 
-        avatar : "https://media.giphy.com/media/fXsTOgADDa1QA/giphy.gif", 
-        avatar_frame : "", 
-    },
 {
-        email : "truonggiang20001807@gmail.com", 
+    'truonggiang20001807@gmail.com': {
         avatar : "https://media.giphy.com/media/MFsqcBSoOKPbjtmvWz/giphy.gif", 
         avatar_frame : "", 
+    },
+    'bonnmh.mobile@gmail.com: {
+        avatar : "https://media.giphy.com/media/fXsTOgADDa1QA/giphy.gif", 
+        avatar_frame : "", 
     }
-]
+}
